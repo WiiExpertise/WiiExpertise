@@ -13,7 +13,7 @@ I'm a Computer Science student in my final semester, graduating in May 2025. My 
 
 ## 🛠️ Projects
 - **[H2 Visuals Tools](https://github.com/WiiExpertise/h2-visuals-tools):** A JavaScript-based tool to parse and modify EA Sports H2 archive files, allowing for simple and efficient modifications to in-game character appearance.
-- **[File Format Parser](https://github.com/WiiExpertise/brt-tools):** Built using JavaScript, this tool parses and modifies BundleRefTable files from EA's Frostbite engine, enabling custom asset loading for games like FIFA and Madden.
+- **[BRT Tools](https://github.com/WiiExpertise/brt-tools):** Built using JavaScript, this tool parses and modifies BundleRefTable files from EA's Frostbite engine, enabling custom asset loading for games like FIFA and Madden.
 - **[Madden Franchise Utilities](https://github.com/Sinthros/madden-franchise-utils):** Collaborated on several JavaScript-based utilities for Madden NFL, introducing features like dynamic weather, weekly scenarios, and realistic player equipment.
 
 ## 🌱 Currently Learning
